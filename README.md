@@ -1,5 +1,8 @@
-# Setting Up YouTube AI Summarizer
+# YouTube AI Summarizer
 This tutorial will guide you through setting up and running your YouTube AI Summarizer on both Windows using Laragon and Linux/Mac.
+
+## Screenshot
+![Screenshot of the Application](readme.png)
 
 ## Prerequisites
 - A machine with PHP, Python, and a web server (Apache or Nginx) installed
